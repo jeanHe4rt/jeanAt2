@@ -1,16 +1,23 @@
 ## Informação Pública
 
-Me chamo Jean Carlos, sou do Vale Real, adoro games, musica e mais algumas cositas mais.
+Me chamo Jean Carlos, sou do Vale Real e tentando entrar nesse mundo incrível da programação.
 
 ## Informações específicas
 
-**Name:** Jean Carlos dos Santos
-**Age** 26
-**Livin in:** Vale Real
-** Stack:** HTML,JS,Css Node, React
-**University:** IFRS - Campus Feliz
-**Course:** Análise e Desenvolvimento de Sistemas
+- **Name:** Jean Carlos dos Santos
 
-#Curiosidades
+- **Age** 26
 
-Adoro jogar, amante de musica e apreciador de uma boa série da netflix.
+- **Livin in:** Vale Real
+
+- **Stack:** HTML,JS,Css Node, React
+
+- **University:** IFRS - Campus Feliz
+
+- **Course:** Análise e Desenvolvimento de Sistemas
+
+## Curiosidades
+
+- Adoro jogar
+- Amante de musica
+- Apreciador de uma boa série
