@@ -10,7 +10,9 @@ Me chamo Jean Carlos, sou do Vale Real e tentando entrar nesse mundo incrível d
 
 - **Livin in:** Vale Real
 
-- **Stack:** HTML,JS,Css Node, React
+- **Stack:** HTML,JS,Css, Java.
+
+-**learning:**: Spring Boot
 
 - **University:** IFRS - Campus Feliz
 
@@ -18,6 +20,6 @@ Me chamo Jean Carlos, sou do Vale Real e tentando entrar nesse mundo incrível d
 
 ## Curiosidades
 
-- Adoro jogar
 - Amante de musica
 - Apreciador de uma boa série
+- 
