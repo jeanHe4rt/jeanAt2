@@ -12,7 +12,7 @@ Me chamo Jean Carlos, sou do Vale Real e tentando entrar nesse mundo incrível d
 
 - **Stack:** HTML,JS,Css, Java.
 
-- **Learning:**: Spring Boot
+- **Learning:** Spring Boot
 
 - **University:** IFRS - Campus Feliz
 
