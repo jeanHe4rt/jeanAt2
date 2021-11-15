@@ -23,3 +23,7 @@ Me chamo Jean Carlos, sou do Vale Real e tentando entrar nesse mundo incrível d
 - Amante de musica
 - Apreciador de uma boa série
 - Futebol
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanat2&show-icons=true) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jeanat2&show-icons=true) 
