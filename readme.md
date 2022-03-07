@@ -1,6 +1,6 @@
 #### Informação Pública
 
-Apaixonado por códe, tanto no front e back end. No momento estou focando nas bases do front end, html, css e javascript.
+Apaixonado por codar, tanto no front e back end. No momento estou focando nas bases do front end, html, css e javascript.
 
 #### Redes Sociais: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeandossantosmd/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jean.at2/)
