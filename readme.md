@@ -1,6 +1,6 @@
 #### Informação Pública
 
-Apaixonado por codar, tanto no front e back end. No momento estou focando nas bases do front end, html, css e javascript.
+Apaixonado por codar, tanto no frontend, back end e com um pésinho no mobile. Trabalho com C#,Javascrip, Typescript, MongoDb, SQLITE, Java, RestAPI, Angular, ReactJS, Bulma, Bootstrap.
 
 #### Redes Sociais: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeandossantosmd/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jeanHe4rt/)
@@ -14,7 +14,7 @@ Apaixonado por codar, tanto no front e back end. No momento estou focando nas ba
 
 - **Name:** Jean Carlos dos Santos
 
-- **Age** 26
+- **Age** 28
 
 - **Livin in:** Vale Real
 
